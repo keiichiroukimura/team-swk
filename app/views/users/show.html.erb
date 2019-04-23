@@ -1,0 +1,5 @@
+<section id = "show">
+<h1>マイページ</h1>
+<%= @user.name%>
+<%= @user.email%>
+<%= link_to 'プロフィール編集', edit_user_path(@user), class:"btn btn-default" %>
