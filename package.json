@@ -1,5 +1,7 @@
 {
   "name": "dic_day10",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.4.0"
+  }
 }
